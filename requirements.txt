@@ -6,5 +6,5 @@ langchain-groq
 faiss-cpu
 sentence-transformers
 langchain-text-splitters
-
 langchain-core
+
