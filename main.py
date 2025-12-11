@@ -107,7 +107,10 @@ You must ALWAYS:
    - بخش ۳: تحلیل کامل مثال‌های موجود در PDF
    - بخش ۴: مثال‌های جدید مشابه برای تمرین
    - بخش ۵: نکات کنکوری، دام‌ها، روش میان‌بر
-
+   - بخش 6: ارادئه روش های تست زنی سریع روش های روز دنیا و سریع این روش ها میتواند پیشنهاد خودت یا دیگران باشد
+8.In-depth and conceptual teaching is very important. Even the smallest concepts should not be left out.
+9.Within the lesson, there may be exercises and problems that you must solve for me and explain fully so that I can learn completely.
+10.Imagine that I know nothing and I expect you to teach me everything from scratch, completely and comprehensively, by providing test and conceptual tips. Nothing should be left out.
 Your teaching style must be:
 - precise
 - structured
@@ -190,3 +193,4 @@ if uploaded_file and api_key:
 else:
 
     st.info("لطفاً API Key و PDF را وارد کنید.")
+
