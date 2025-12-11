@@ -3,7 +3,7 @@ import os
 import tempfile
 
 from langchain_community.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
@@ -188,4 +188,5 @@ if uploaded_file and api_key:
                 st.markdown(result.content, unsafe_allow_html=True)  # از markdown برای RTL بهتر
 
 else:
+
     st.info("لطفاً API Key و PDF را وارد کنید.")
