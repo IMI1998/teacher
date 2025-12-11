@@ -5,4 +5,5 @@ langchain-huggingface
 langchain-groq
 pypdf2
 faiss-cpu
+langchain-text-splitters
 sentence-transformers
